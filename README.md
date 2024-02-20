@@ -1,5 +1,5 @@
 # Advanced-Regression-HousePrice-Prediction
-Advanced Regression Ridge and Lasso Regression to predict house sale price
+Advanced Regression by using Ridge and Lasso Regression to predict house sale price
 
 
 ## Table of Contents
